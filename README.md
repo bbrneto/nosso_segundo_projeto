@@ -1,23 +1,22 @@
-# Flutter: Widgets, Stateless, Stateful, Imagens e Animações
+# Flutter: Controller, navegação e estados
 
-Primeiro aplicativo escrito na linguagem Dart com auxílio do framework Flutter.
+Aplicativo escrito na linguagem Dart com auxílio do framework Flutter.
 
-| :placard: Vitrine.Dev |                                                                                            |
-|-----------------------|--------------------------------------------------------------------------------------------|
-| :sparkles: Nome       | **Flutter: Widgets, Stateless, Stateful, Imagens e Animações**                             |
-| :label: Tecnologias   | Dart, Flutter, Android Studio, Material Design                                             |
-| :fire: Desafio        | https://www.alura.com.br/curso-online-flutter-widgets-stateless-stateful-imagens-animacoes |
+| :placard: Vitrine.Dev |                                                                            |
+|-----------------------|----------------------------------------------------------------------------|
+| :sparkles: Nome       | **Flutter: Controller, navegação e estados**                               |
+| :label: Tecnologias   | Dart, Flutter, Android Studio, Material Design                             |
+| :fire: Desafio        | https://www.alura.com.br/curso-online-flutter-controller-navegacao-estados |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://www.alura.com.br/assets/api/cursos/flutter-widgets-stateless-stateful-imagens-animacoes.svg#vitrinedev)
+![](https://www.alura.com.br/assets/api/cursos/flutter-controller-navegacao-estados.svg#vitrinedev)
 
 ## Detalhes do curso
 
-* Descubra o que é o Flutter e para que ele serve;
-* Aprenda a instalar o Android Studio;
-* Aprenda a instalar o Flutter;
-* Crie seu primeiro projeto;
-* Entenda o que são Widgets, como categorizá-los e manipulá-los;
-* Compreenda o que são Stateless e Stateful Widgets e suas diferenças;
-* Aprenda a adicionar Imagens e Widgets animados no seu projeto;
-* Veja a importância da Refatoração no seu projeto.
+* Aprenda a criar formulários que coletam informações do usuário;
+* Valide informações em formulários e armazene elas com o Controller;
+* Navegue entre diferentes telas em um app;
+* Compreenda os conceitos de navegação e rotas;
+* Descubra o que é estado no Flutter e aplique esse conceito;
+* Mergulhe no mundo do Contexto e suas aplicações;
+* Explore o Inherited Widget, capaz de lidar com informações entre Widgets.
